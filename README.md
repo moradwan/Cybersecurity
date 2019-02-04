@@ -7,6 +7,10 @@
 
 ## Presentations (slides)
 - Mo Radwan: [Cybersecurity Cyber Usalama](https://www.slideshare.net/MuhammadRadwan10/cybersecurity-cyber-usalama) (on Slideshare.net) | December 2018 | language: English
+The above training was conducted with GIG partners, Swahilibox in Mombasa, Kenya.  
+The format of the interactive session was based on a Facebook training given to programmers in Berlin, Germany.  It was adapted to include more tools that are more up-to-date and tailored to the Kenyan context.  
+The training was meant to be replicated in their community and all materials were provided to the space, in the spirit of open source and network collaboration.
+
 - Pawel Ngei: [Cryptoparty: cybersecurity basics](https://slides.com/pawelngei/cryptoparty19#/) (on Slides.com) | January 2019 | language: English
 
 
